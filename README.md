@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Emisiunea Forum IT
 
-You can use the [editor on GitHub](https://github.com/banica/emisiune/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Locatie: Strada Fabrica de Glucoza (Adevarul Holding)
+# Ora: Joi, ora 21:00
+# Durata: 21:00-21:45
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
